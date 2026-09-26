@@ -19,6 +19,9 @@ html {
 }
 
 body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
   min-width: 320px;
   margin: 0;
   color: var(--ink);
@@ -79,6 +82,7 @@ body {
 }
 
 main {
+  flex: 1;
   width: min(1180px, calc(100% - 40px));
   margin: 0 auto;
 }

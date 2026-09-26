@@ -14,10 +14,9 @@ A central access point for PACD and Primark operational tools. The portal provid
 
 | Tool | Destination |
 | --- | --- |
-| Primark Price Calculator | <https://pac-d.github.io/primarkpricecalculator/> |
-| Sales Price Calculator | <https://pac-d.github.io/primarkpricecalculator_sales/> |
-| Carton Supply Report | <https://pac-d.github.io/Primark-carton-supply-report/> |
-| Event Registration | <https://primark-event-registration.vercel.app/> |
+| Carton Price Calculator | <https://primark.pac-d.com/carton-price-calculator> |
+| Carton Supply Report | <https://primark.pac-d.com/carton-supply-report> |
+| Event Registration | <https://registration.pac-d.com> |
 
 ## Project Structure
 
